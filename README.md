@@ -1,3 +1,7 @@
+<!-- licensing-notice -->
+> [!IMPORTANT]
+> Some tutorial-derived code and model/data assets still require provenance verification. The root MIT license does not relicense third-party material. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
 # AI-Vision
 
 Computer vision tools for object detection and image recognition.
